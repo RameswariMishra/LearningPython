@@ -23,3 +23,4 @@ with open('emp.json') as j:
     dict_emp2 = json.load(j)
 
 print(dict_emp2)
+#imnbnmb
